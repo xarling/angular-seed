@@ -6,6 +6,10 @@ npm install grunt-cli -g
 
 npm install bower -g
 
+npm install
+
+npm bower
+
 
 
 # En dan?
