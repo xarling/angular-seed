@@ -23,6 +23,13 @@
         "locale/nl.js"
       ]
     },
+    "bootstrap": {
+      "main": [
+        "dist/js/bootstrap.js",
+        "dist/css/bootstrap.css",
+        "less/bootstrap.less"
+      ]
+    },
     "angular-i18n": {
       "main": [
         "angular-locale_nl-nl.js"
