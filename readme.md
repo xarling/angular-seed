@@ -8,7 +8,7 @@ npm install bower -g
 
 npm install
 
-npm bower
+bower install
 
 
 
